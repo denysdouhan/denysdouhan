@@ -1,3 +1,6 @@
+Hello there, I'm Denys.
+---
+
 I am a research engineer at the Worldcoin Foundation.
 
 My meta-goal is to maximize the positive impact I have on the world to help people and take humanity to a new age of prosperity and abundance.
